@@ -11,13 +11,13 @@ relativeUrls = true
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "In the meantime check my discord server: https://discord.gg/xvEhJ3p3"
+  homeSubtitle = "In the meantime check out my discord server: https://discord.gg/xvEhJ3p3"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
@@ -38,7 +38,7 @@ relativeUrls = true
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "Jordi Leitao Art"
       logoHomeLink = "/"
     # or
     #
@@ -50,3 +50,11 @@ relativeUrls = true
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "art"
+    name       = "Art"
+    url        = "/art"
