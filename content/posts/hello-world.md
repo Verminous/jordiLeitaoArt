@@ -1,5 +1,5 @@
 +++
-title = "Here will be stuff"
+title = "Hello world!"
 date = "2022-02-01T02:13:11Z"
 author = ""
 authorTwitter = "" #do not include @
@@ -14,7 +14,3 @@ readingTime = false
 #  # 
 
 Website under construction...
-
-In the meantime you can check my discord server
-
-https://discord.gg/xvEhJ3p3
