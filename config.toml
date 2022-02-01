@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
-paginate = 5
+theme = "hello-friend"
+paginate = 5 
 relativeUrls = true
 
 [params]
@@ -54,7 +54,7 @@ relativeUrls = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Jordi Leitao Art"
+    title = "Under construction"
     subtitle = "Under construction"
     owner = ""
     keywords = ""
