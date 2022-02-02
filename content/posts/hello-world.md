@@ -1,16 +1,14 @@
-+++
-title = "Hello world!"
-date = "2022-02-01T02:13:11Z"
-author = ""
-authorTwitter = "" #do not include @
-cover = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-readingTime = false
-+++
+---
+title: "Hello Internet!"
+date: 2022-02-01T02:13:11Z
+author: Jordi
+draft: false
+toc: false
+readingTime: true
+images:
+tags: 
+---
 
 #  # 
 
-Website under construction...
+Check later! It's going to be amazing!
