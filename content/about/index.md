@@ -2,7 +2,7 @@
 
 {{< rawhtml >}} 
 <a href="https://storageapi.fleek.co/fc21e7e8-1daa-43d9-ab08-ff193f44a64e-bucket/Images/Imagens_testes/alien.jpg" target="_blank">
-<image src="https://storageapi.fleek.co/fc21e7e8-1daa-43d9-ab08-ff193f44a64e-bucket/Images/Imagens_testes/alien.jpg" alt="Hello Friend" position="left" style="width: 20%" />
+<image src="https://storageapi.fleek.co/fc21e7e8-1daa-43d9-ab08-ff193f44a64e-bucket/Images/Imagens_testes/alien.jpg" alt="Hello Friend" position="left" style="width: 40%" />
 </a>
 <br>
 {{< rawhtml >}} 
