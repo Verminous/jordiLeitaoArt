@@ -14,8 +14,9 @@ tags:
 
 #  # 
 
-My Genesis series has been unleashed on my discord server through auctions.
+My Genesis series has been unleashed.
 
-Check it out:
-
+This series are being sold through a series of actions happening on my discord server:
 https://discord.gg/xvEhJ3p3
+
+{{<image src="https://storageapi.fleek.co/fc21e7e8-1daa-43d9-ab08-ff193f44a64e-bucket/Images/genesis.png" alt="Hello Friend" position="center" style="border-radius: 1px; " >}}
