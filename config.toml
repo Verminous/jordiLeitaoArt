@@ -32,7 +32,7 @@ relativeUrls = true
 [languages]
   [languages.en]
     title = "Jordi Leitão"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "Digital Art"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -58,3 +58,4 @@ relativeUrls = true
     identifier = "art"
     name       = "Art"
     url        = "/art"
+
